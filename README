@@ -1,0 +1,4 @@
+-----------------------------------------------------------------------------
+The SUBLEQ 16-bit-like CPU emulator, written in Makexm2c assembly, which runs
+an eForth.  Derived from <https://github.com/howerj/subleq>.
+-----------------------------------------------------------------------------
